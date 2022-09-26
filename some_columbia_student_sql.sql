@@ -23,3 +23,6 @@ create table columbia_student
  insert into columbia_student (last_name, first_name, middle_name, email, uni)
     values ("Ferguson", "Donald", "Francis", "dff@cs.columbia.edu", "dff9");
 
+ insert into columbia_student (last_name, first_name, middle_name, email, uni)
+    values ("Xingyu", "Wu", "None", "xw2813@columbia.edu", "xw2813");
+

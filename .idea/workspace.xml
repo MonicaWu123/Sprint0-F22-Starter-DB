@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0720db15-7536-4509-95a5-12594aeb7443" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/setup/Setup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/setup/Setup.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/some_columbia_student_sql.sql" beforeDir="false" afterPath="$PROJECT_DIR$/some_columbia_student_sql.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2FJslRaza2T0qwsJSuKYtsl4jxY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/wuxingyu/Desktop/CU/third_semester/6156/F22-Starter-DB"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ],
+    "RunConfigurationTargetLRU": [
+      "a7509307-3028-4b0d-ae3e-d05f4b75b007/schema/\"f22_databases\""
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Database Script.some_columbia_student_sql.sql (1)">
+    <configuration name="some_columbia_student_sql.sql (1)" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/some_columbia_student_sql.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="a7509307-3028-4b0d-ae3e-d05f4b75b007" namespace="schema/&quot;f22_databases&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="some_columbia_student_sql.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-mode>FILE</script-mode>
+      <data-source id="a7509307-3028-4b0d-ae3e-d05f4b75b007" namespace="schema/&quot;f22_databases&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Database Script.some_columbia_student_sql.sql (1)" />
+      <item itemvalue="Database Script.some_columbia_student_sql.sql" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Database Script.some_columbia_student_sql.sql (1)" />
+        <item itemvalue="Database Script.some_columbia_student_sql.sql" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
